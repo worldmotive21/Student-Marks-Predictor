@@ -3,10 +3,6 @@
   <img src="images/student-marks-predictor-banner.png" alt="Student Marks Predictor banner" width="100%">
 </p>
 
-# 🎓 Student Marks Predictor
-
-Predict Student Marks Using Machine Learning
-
 
 # 🎓 Student Marks Predictor
 
